@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="img/pfp-circle.png" alt="Profile Picture" width="100" align="left" />
+  <img src="img/pfp-circle.png" alt="Profile Picture" width="100" />
 
   # Aurang Asif
-  ___
-
+    
   ### Who I am
   a male (he / him)\
   a student (grade 9)\
