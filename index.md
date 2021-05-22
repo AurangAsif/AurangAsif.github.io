@@ -2,7 +2,6 @@
   <img src="img/pfp-circle.png" alt="Profile Picture" width="100" align="left" />
 
   # Aurang Asif
-  ___
 
   ### Who I am
   a male (he / him)\
